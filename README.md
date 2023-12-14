@@ -9,8 +9,16 @@ To contribute to the sucess!
 Dataset link: https://docs.google.com/spreadsheets/d/1NI1A7GZfFPKfQmLyYm_xknCTuKGF0fz_/edit#gid=1975741737
 
 Output:
-[img2](https://github.com/VanshC12/Sales-data-dashboard/assets/95523213/40b95853-51e2-415c-a34b-46dc30472855)
-[img1](https://github.com/VanshC12/Sales-data-dashboard/assets/95523213/dff96788-5744-4453-af5d-b038f89d49db)
+![img2](https://github.com/VanshC12/Sales-data-dashboard/assets/95523213/40b95853-51e2-415c-a34b-46dc30472855)
+
+
+
+
+
+
+
+
+![img1](https://github.com/VanshC12/Sales-data-dashboard/assets/95523213/dff96788-5744-4453-af5d-b038f89d49db)
 
 
 
