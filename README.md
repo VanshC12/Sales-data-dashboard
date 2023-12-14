@@ -1,18 +1,20 @@
 # Sales-Data-Dashboard
 
 Project Description:
-To contribute to the sucess of business by utilizing data analysis technique, specifically focusing on time series analysis, to provide valuable insights and accurate sales forcasting
+To contribute to the sucess!
+ of business by utilizing!
+ data analysis technique, specifically focusing on time series analysis, to provide valuable insights and accurate sales forcasting
 
 
 Dataset link: https://docs.google.com/spreadsheets/d/1NI1A7GZfFPKfQmLyYm_xknCTuKGF0fz_/edit#gid=1975741737
 
 Output:
+[img2](https://github.com/VanshC12/Sales-data-dashboard/assets/95523213/40b95853-51e2-415c-a34b-46dc30472855)
+[img1](https://github.com/VanshC12/Sales-data-dashboard/assets/95523213/dff96788-5744-4453-af5d-b038f89d49db)
 
-![Screenshot (315)](https://github.com/VanshC12/Sales-data-dashboard/assets/95523213/0889f25c-0b7b-412f-bd3b-8d0ec2e20cb0)
 
 
 
-![Screenshot (260)](https://github.com/VanshC12/Sales-data-dashboard/assets/95523213/3e2f827d-5624-46fb-9ab0-98ceddba918d)
 
 
 
